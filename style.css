@@ -113,3 +113,14 @@ body {
   align-items: center;
   background-color: coral;
 }
+.wh{
+  background-color: rgb(248, 140, 198);
+}
+
+.p1{
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+  letter-spacing: 6px;
+  font-size: 18px;
+}
